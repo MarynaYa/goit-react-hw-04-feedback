@@ -1,0 +1,10 @@
+
+.button {
+    background-color: blue;
+    color: #fff;
+    width: 80px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: 1px solid transparent;
+    margin: 20px 10px;
+}
